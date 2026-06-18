@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 
+    'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 
+    'Helvetica Neue', sans-serif;
+    padding: 20px;
+    text-align: center;
+    background-color: moccasin;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+    color: lightseagreen;
+}
+
+h2{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: rgb(218, 165, 32);
+}
+
+.productos-grid{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.producto-card{
+    border: 1px solid black;
+    padding: 10px;
+    width: 150px;
+}
+
+.producto-card button{
+    margin-top: 10px;
+    padding: 5px;
+}
+
+.carrito-items{
+    border: 1px solid black;
+    padding: 10px;
+    min-height: 50px;
+    margin-bottom: 10px;
+}
+
+.carrito-item{
+    border-bottom: 1px solid gray;
+    padding: 5px;
+}
+
+#limpiarCarrito{
+    padding: 8px;
+}
