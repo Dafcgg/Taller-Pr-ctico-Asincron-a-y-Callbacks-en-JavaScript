@@ -2,6 +2,8 @@ TALLER PRÁCTICO: ASINCRONÍA Y CALLBACKS EN JAVASCRIPT
 
 Autor: [Dilan Andres Fonseca Tellez]
 
+Los cogidos estan en el maintaller.js
+
 ====================================================
 OBJETIVO
 ========
